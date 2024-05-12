@@ -3,7 +3,7 @@ This is an extension that removes unsupported headers from responses, restoring 
 
 ## Current fixes
 ### Set-Cookie
-- **RemovePartitioned**: Removes experimental (Partitioned cookies)[https://developer.mozilla.org/en-US/docs/Web/Privacy/Privacy_sandbox/Partitioned_cookies] which break old browsers' cookie parsers.
+- **RemovePartitioned**: Removes experimental [Partitioned cookies](https://developer.mozilla.org/en-US/docs/Web/Privacy/Privacy_sandbox/Partitioned_cookies) which break old browsers' cookie parsers.
 
 ## Installation guide
 1. Download this repository(Code -> Download ZIP) and unpack it into any folder
